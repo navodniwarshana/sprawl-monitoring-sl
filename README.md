@@ -43,5 +43,5 @@ The dashboard provides real-time risk assessments based on machine learning pred
 ### 1. Prerequisites
 Make sure you have Python installed. Then, clone this repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/sprawl-monitoring-sl.git](https://github.com/YOUR_USERNAME/sprawl-monitoring-sl.git)
+git clone [https://github.com/navodniwarshana/sprawl-monitoring-sl.git](https://github.com/navodniwarshana/sprawl-monitoring-sl.git)
 cd sprawl-monitoring-sl
